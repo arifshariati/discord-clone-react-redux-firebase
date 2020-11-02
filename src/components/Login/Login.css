@@ -1,0 +1,46 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.login > button {
+  width: 19rem;
+  background-color: #7289da;
+  color: white;
+  font-weight: 800;
+}
+
+.login > button:hover {
+  background-color: black;
+  color: white;
+}
+
+.login > div > img {
+  object-fit: contain;
+  height: 17rem;
+}
+
+.login__developedWith {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login__developedWith > h4 {
+  color: #7289da;
+}
+.login__developedWithSpan {
+  font-size: small;
+}
+.login__developedWithImages {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+.login__developedWithImages > a > img {
+  height: 5rem;
+  margin: 1rem;
+  cursor: pointer;
+}
