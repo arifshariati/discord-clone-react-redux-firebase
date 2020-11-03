@@ -2,16 +2,16 @@ This project was developed with [Create React App](https://github.com/facebook/c
 
 ## Key Feature
 
-1- Firebase Authentication State Persistance 
-2- Firebase Firestore Persistance - CRUD done on Realtime Database
-3- Social Media Login/Signup (Gmail)
-4- CSS BEMM Naming Convention 
+* Firebase Authentication State Persistance 
+* Firebase Firestore Persistance - CRUD done on Realtime Database
+* Social Media Login/Signup (Gmail)
+* CSS BEMM Naming Convention 
 
 ## App Features
 
-1- Signup/Login with Social Media (Gmail)
-2- Create Chat room / Channel 
-3- Message/Comment in Chat room / Channel
+* Signup/Login with Social Media (Gmail)
+* Create Chat room / Channel 
+* Message/Comment in Chat room / Channel
 
 ## Demo
 
